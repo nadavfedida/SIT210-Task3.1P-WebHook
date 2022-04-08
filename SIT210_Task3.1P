@@ -20,3 +20,5 @@ void loop() {
 
   delay(1000);
 }
+
+//This code will send data to a webhook created in thingspeak. 
